@@ -222,6 +222,24 @@ body{
       margin-right: 5px;
     }
 
+  #call-btn > a {
+  font-size: 1.5em;
+  display: block;
+  margin: 0 20px;
+  padding: 10px;
+  border: 2px solid #fff;
+  background-color: #f6b319;
+  color: #951c49;
+
+}
+ #xs-deliver {
+   font-family: 'Italianno', cursive;
+   margin-top: 5px;
+   font-size: .7em;
+   letter-spacing: .1em;
+   text-transform: uppercase;
+}
+
     /* FOOTER */
       .panel-footer section {
         margin-bottom: 30px;
@@ -234,7 +252,7 @@ body{
         width: 50%;
       }
       /* END FOOTER */
-      
+
     /* Home Page */
   .container .jumbotron {
       margin-top: 30px;
